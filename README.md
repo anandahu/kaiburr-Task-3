@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kaiburr Task Manager (Frontend)
 
 A lightweight React + Vite UI for managing and executing scheduled shell tasks. Built with TypeScript and Ant Design.
@@ -101,3 +102,6 @@ Contributing
 Fork, create a feature branch, run tests (if added), and open a PR.
 Keep UI changes confined to src/components/*.
 ```
+=======
+# kaiburr-Task-3
+>>>>>>> 3cd8fe6763a035a4d3bb0de03553cbd11a370ff6
